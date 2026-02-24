@@ -1,50 +1,80 @@
- 👋<h1 align="left">¡Hola! Soy Daniel Flores</h1>
+<h1 align="center">👋 Hola, soy Daniel Flores</h1>
+<h3 align="center">Desarrollador Backend en formación | Java & Spring</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielFlowers-star&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas perfil" />
+</p>
 
-<h2 align="left">Desarrollador Backend en formación<br>📍 Colombia  <br>🚀 Apasionado por aprender, crear y mejorar cada día</h2>
+---
 
-###
+## 🚀 Sobre mí
 
-<p align="left">- 💻 Enfocado en desarrollo **Backend con Java y Spring**<br>- 📚 Mejorando mis habilidades en APIs REST y Bases de Datoss<br>- 🐳 Aprendiendo Docker y despliegue de aplicaciones<br>- 🎯 Objetivo: Convertirme en Backend Developer profesional</p>
+- 💻 Enfocado en desarrollo **Backend con Java y Spring**
+- 📚 Mejorando mis habilidades en **APIs REST y Bases de Datos**
+- 🐳 Aprendiendo **Docker y despliegue de aplicaciones**
+- 🎯 Objetivo: Convertirme en Backend Developer profesional
+- 📍 Colombia
 
-###
+---
 
-<h2 align="left">Proyectos Colaborativo<br>Sistema Ecommerce con Spring<br>Backend con autenticación y CRUD<br>https://github.com/Brayanwcx/Realmyfit2</h2>
+## 🛠 Tecnologías y Herramientas
 
-###
+### 👨‍💻 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
+### 🗄 Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-###
+### ⚙ Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
+</p>
 
-<!--
-**DanielFlowers-star/DanielFlowers-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 Estadísticas de GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielFlowers-star&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielFlowers-star&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+
+🔹 **Sistema Ecommerce con Spring**  
+Backend con autenticación y operaciones CRUD.
+
+🔹 **Práctica de Ramas en Git**  
+Repositorio enfocado en dominar flujos de trabajo con Git.
+
+🔹 **Ejercicios de Lógica en Java**  
+Proyectos enfocados en fundamentos de programación.
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Arquitectura Limpia
+- Buenas prácticas en APIs REST
+- Dockerización de aplicaciones
+- Optimización de rendimiento
+
+---
+
+## 📫 Conecta conmigo
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ *"Código limpio hoy, desarrollador profesional mañana."*
