@@ -23,7 +23,7 @@
 
 ### 🗄 Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### ⚙ Herramientas
@@ -59,7 +59,6 @@ https://github.com/Brayanwcx/Realmyfit2
 
 ---
 
-## 📫 Conecta conmigo
 
 <p>
   <a href="https://mail.google.com/mail/u/0/#inbox">
