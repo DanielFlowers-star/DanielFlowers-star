@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hola, soy Daniel Florez</h1>
+**<h1 align="center">🧠 Daniel Flores</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;NestJS+%7C+PostgreSQL;Construyendo+APIs+Escalables" />
+</p>**
 <h3 align="center">Desarrollador Backend en formación | Java & Spring</h3>
 
 
@@ -59,13 +63,5 @@ https://github.com/Brayanwcx/Realmyfit2
 
 ---
 
-
-<p>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-   
-  </a>
-</p>
-
----
 
 ⭐ *"Código limpio hoy, desarrollador profesional mañana."*
