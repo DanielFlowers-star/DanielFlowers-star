@@ -1,9 +1,6 @@
-<h1 align="center">👋 Hola, soy Daniel Flores</h1>
+<h1 align="center">👋 Hola, soy Daniel Florez</h1>
 <h3 align="center">Desarrollador Backend en formación | Java & Spring</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielFlowers-star&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas perfil" />
-</p>
 
 ---
 
@@ -31,7 +28,7 @@
 
 ### ⚙ Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
@@ -45,33 +42,28 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyecto Destacado
 
-🔹 **Sistema Ecommerce con Spring**  
+🔹 **Sistema Colaborativo de Ecommerce con Spring**  
 Backend con autenticación y operaciones CRUD.
-
-🔹 **Práctica de Ramas en Git**  
-Repositorio enfocado en dominar flujos de trabajo con Git.
-
-🔹 **Ejercicios de Lógica en Java**  
-Proyectos enfocados en fundamentos de programación.
+https://github.com/Brayanwcx/Realmyfit2
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 
-- Arquitectura Limpia
-- Buenas prácticas en APIs REST
-- Dockerización de aplicaciones
-- Optimización de rendimiento
+- 🗂 Migraciones y modelado de bases de datos
+- 🐳 Dockerización de aplicaciones backend
+- ⚡ Optimización y rendimiento de aplicaciones
+- 🔀 Buenas prácticas con Git (ramas, merges y control de versiones)
 
 ---
 
 ## 📫 Conecta conmigo
 
 <p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+   
   </a>
 </p>
 
