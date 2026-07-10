@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,Html5,JavaScrip,TypeScript" />
 </p>
 
 ### 🗄 Bases de Datos
