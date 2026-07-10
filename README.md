@@ -33,15 +33,6 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielFlowers-star&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielFlowers-star&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Proyecto Destacado
 
 🔹 **Sistema Colaborativo de Ecommerce con Spring**  
