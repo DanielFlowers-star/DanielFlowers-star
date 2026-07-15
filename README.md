@@ -37,12 +37,15 @@
 🔹 **Sistema Colaborativo de Ecommerce con Spring**  
 Backend con autenticación y operaciones CRUD.
 https://github.com/Brayanwcx/Realmyfit2
+
 🔹 **Sistema Colaborativo de Gym RealmyFit**
 
 https://github.com/Brayanwcx/Realmyfit-FN
-🔹 **Sistema Colaborativo de Inventario**  
+
+🔹 **Sistema Colaborativo de Inventario y ventas**  
 
 https://github.com/Brayanwcx/RenuevoSportFN
+
 ---
 
 ## 🌱 Actualmente aprendiendo
